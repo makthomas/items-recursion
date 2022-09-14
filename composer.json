@@ -1,0 +1,19 @@
+{
+    "name": "makthomas/items-recursion",
+    "description": "create items hierarchy using recursion",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "makthomas\\ItemsRecursion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Makis Thomas",
+            "email": "naoythoma@hotmail.com"
+        }
+    ]
+}
